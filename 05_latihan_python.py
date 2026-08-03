@@ -10,4 +10,3 @@ try:
 
 except ValueError:
     print("[Kesalahan] Harap masukkan angka bulat yang valid!")
-    
